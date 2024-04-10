@@ -1,6 +1,5 @@
 Algoritmo "Programa de calculo"
-
-//Programa para facilitar calculos
+//Programa para facilitar calculos 1.1.0
 
 Var
 largura:real
@@ -11,6 +10,7 @@ raio:real
 peso:real
 imc:real
 Inicio
+escreval("esse projeto esta dentro do github")
 escreval("{§\|/§}Programa de calculos{§\|/§}")
 escreval("")
 escreval("selecione a opcao desejada")
