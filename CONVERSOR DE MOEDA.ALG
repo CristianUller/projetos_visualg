@@ -51,14 +51,14 @@ Inicio
          escreval("Escolha a quantia desejada")
          Leia(resposta)
          total <- resposta/euro
-         escreval("$:",total)
+         escreval("€:",total)
          //fimalgoritmo
 
       caso 2
          escreval("Escolha a quantia desejada")
          Leia(resposta)
          total <- resposta/dolar
-         escreval("€:",total)
+         escreval("$:",total)
          //fimalgoritmo
 
 
