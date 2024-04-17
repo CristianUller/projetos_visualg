@@ -97,6 +97,9 @@ caso 5
  Escreval(numero,"x",contagem,"=",resultado)
  fimpara
  
+
+
+
  caso 6
  Escreval("{*§\|/§}Modulo de calculo de juros{§\|/§*}")
 escreval("informe o valor do emprestimo")
@@ -104,7 +107,7 @@ leia(emprestimo)
 escreval("informe o numero de parcelas")
 leia(nparcela)
 se (emprestimo<5001) entao
-total<- emprestimo + (emprestimo*0.2*nparcela)
+total<- emprestimo + (emprestimo*0.02*nparcela)
 parcela<- total/nparcela
 escreval("parcela:",parcela)
 escreval("total:",total)
@@ -123,6 +126,28 @@ escreval("total:",total)
   fimse
   fimse
   fimse
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
 outrocaso
  //avisa o usuario que errou
